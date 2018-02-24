@@ -5,12 +5,28 @@
     <e p="C:\Users\jonat\Git Repos\Shader-Testing-Ground\2018ShaderTest" t="IncludeRecursive">
       <e p="2018ShaderTest.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="NewBehaviourScript.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
               <e p="Unity3DRider.cs" t="Include" />
             </e>
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Jonathan" t="Include">
+            <e p="CatTutorial.shader" t="Include" />
+            <e p="CatTutorialwStructs.shader" t="Include" />
+            <e p="CombiningTextures.shader" t="Include" />
+            <e p="FirstLight.shader" t="Include" />
+            <e p="GenericVFShader.shader" t="Include" />
+            <e p="MultipleLights.shader" t="Include" />
+            <e p="My Lighting.cginc" t="Include" />
+            <e p="SparkleShader.shader" t="Include" />
+            <e p="SplatMap.shader" t="Include" />
+            <e p="Test.shader" t="Include" />
           </e>
         </e>
       </e>

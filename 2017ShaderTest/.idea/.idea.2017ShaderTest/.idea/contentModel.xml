@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10795516\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_2017ShaderTest.-1152731814.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10795516\Git Repos\Shader-Testing-Ground\2017ShaderTest" t="IncludeRecursive">
+      <e p="2017ShaderTest.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NewBehaviourScript.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Placeholder.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Jonathan" t="Include">
+            <e p="CatTutorial.shader" t="Include" />
+            <e p="CatTutorialwStructs.shader" t="Include" />
+            <e p="CombiningTextures.shader" t="Include" />
+            <e p="FirstLight.shader" t="Include" />
+            <e p="GenericVFShader.shader" t="Include" />
+            <e p="MultipleLights.shader" t="Include" />
+            <e p="My Lighting.cginc" t="Include" />
+            <e p="SparkleShader.shader" t="Include" />
+            <e p="SplatMap.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

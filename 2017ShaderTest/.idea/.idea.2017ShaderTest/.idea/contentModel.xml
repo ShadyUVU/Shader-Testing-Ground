@@ -20,6 +20,7 @@
         </e>
         <e p="Shaders" t="Include">
           <e p="Jonathan" t="Include">
+            <e p="Bumpiness.shader" t="Include" />
             <e p="CatTutorial.shader" t="Include" />
             <e p="CatTutorialwStructs.shader" t="Include" />
             <e p="CombiningTextures.shader" t="Include" />
